@@ -70,7 +70,7 @@ body {
     }
 
     25% {
-        transform: translateY(112px);
+        transform: translateY(120px);
     }
 
     26% {
@@ -78,7 +78,7 @@ body {
     }
 
     28% {
-        transform: translateY(35px);
+        transform: translateY(45px);
     }
 
     30% {
@@ -102,23 +102,23 @@ body {
     }
 
     71% {
-        transform: translateY(428px);
+        transform: translateY(360px);
     }
 
-    72.5% {
-        transform: translateY(440px);
+    72% {
+        transform: translateY(385px);
     }
 
     75% {
-        transform: translateY(450px);
+        transform: translateY(410px);
     }
 
-    77.5% {
-        transform: translateY(440px);
+    77% {
+        transform: translateY(385px);
     }
 
     79% {
-        transform: translateY(428px);
+        transform: translateY(360px);
     }
 
     100% {
